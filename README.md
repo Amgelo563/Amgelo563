@@ -5,7 +5,7 @@
 I'm a [🇵🇪 Peruvian](https://peru.info/en-us/) developer and university student.
 
 - 💬 My native language is **Spanish**, and I then learnt **English**. You can often see me participating in translation projects.
-- 🎓 Currently studying **Computer science and engineering** at [PUCP](https://www.pucp.edu.pe/).
+- 🎓 Currently studying **Computer science and engineering** at [PUCP](https://www.pucp.edu.pe/en/).
 - 🍎 Learning **Java** and common database systems such as **MongoDB** and **MySQL**.
 
 ## 💻 Languages and tools:
