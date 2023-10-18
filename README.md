@@ -36,4 +36,4 @@ I'm a [🇵🇪 Peruvian](https://peru.info/en-us/) developer and university stu
 
 *Powered by [Wakatime](https://wakatime.com/) and [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
-![Amgelo563's languages this week](https://github-readme-stats.vercel.app/api/wakatime?username=@84d4f8dc-edb7-4aaf-a6d3-39a0bf3fed51&theme=algolia&layout=compact&custom_title=🌌%20This%20week) ![Amgelo563's total stats](https://github-readme-stats.vercel.app/api?username=Amgelo563&show_icons=true&theme=algolia&include_all_commits=true&custom_title=🌐%20Total%20stats)
+![Amgelo563's languages this week](https://github-readme-stats.vercel.app/api/wakatime?username=@84d4f8dc-edb7-4aaf-a6d3-39a0bf3fed51&theme=algolia&layout=compact&custom_title=🌌%20This%20year) ![Amgelo563's total stats](https://github-readme-stats.vercel.app/api?username=Amgelo563&show_icons=true&theme=algolia&include_all_commits=true&custom_title=🌐%20Total%20stats)
