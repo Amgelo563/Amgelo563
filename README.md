@@ -48,8 +48,16 @@ A Typescript framework for developing [Discord.js](https://discord.js.org/) bots
 ### [💬 enki-bot](https://github.com/Amgelo563/enki-bot)
 A data-driven Discord bot for creating message tags.
 
+#### Features
+- Completely custom commands, subcommands and options.
+- Advanced weighted searching by tag content and keywords.
+- Tag linking or extra messages via buttons.
+- Tag discovery by glob patterns.
+- Automatic tag synchronization with a git repo.
+
 #### Tech Stack
 - [PNPM](https://pnpm.io/) - Managing packages.
+- [Valibot](https://valibot.dev/) - Configuration files' schema validation.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Versioning and releasing.
 - [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) - Linting and formatting.
 - [GitHub Actions](https://github.com/features/actions) - CI/CD.
@@ -58,11 +66,22 @@ A data-driven Discord bot for creating message tags.
 
 ### [💹 hermes-bot](https://github.com/Amgelo563/enki-bot)
 A Discord bot for publishing service request and offers in a guild.
+
+#### Features
+- Completely customizable messages and commands.
+- User blacklisting, either temporal or permanent.
+- CRUD commands for services, tags and blacklists.
+- Service searching by filters like tag and recency.
+- Advanced placeholder system, allowing nested placeholders and property querying.
+- Automatic service moderation via entirely user-configurable requirements.
+
 #### Tech Stack
 - [PNPM](https://pnpm.io/) - Managing packages.
+- [Zod](https://zod.dev/) - Configuration files' schema validation.
+- [Prisma](https://www.prisma.io/orm) - Type safe database ORM.
+- [Vitest](https://vitest.dev/) - Testing.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Versioning and releasing.
 - [Husky](https://typicode.github.io/husky/) - Running git tasks before committing.
-- [Prisma](https://www.prisma.io/orm) - Type safe database ORM.
 - [Docker](https://www.docker.com/) - As a supported deployment option.
 - [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) - Linting and formatting.
 - [GitHub Actions](https://github.com/features/actions) - CI/CD.
