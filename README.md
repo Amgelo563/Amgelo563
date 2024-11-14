@@ -4,7 +4,7 @@ I'm a [🇵🇪 Peruvian](https://peru.info/en-us/) developer and university stu
 
 - 💬 My native language is **Spanish**, I then learnt **English**. You can sometimes see me participating in translation projects.
 - 🎓 Currently studying **Computer science and engineering** at [PUCP](https://www.pucp.edu.pe/en/).
-- 💻 Mainly a **[TypeScript](https://www.typescriptlang.org/)** on [Node.js](https://nodejs.org/en/) developer and some experience with [Java](https://www.java.com/es/). I also have particular expertise on the [Discord API](https://discord.com/developers/docs/reference), specifically on bots.
+- 💻 Mainly a **[TypeScript](https://www.typescriptlang.org/)** on [Node.js](https://nodejs.org/en/) developer and some experience with [Java](https://www.java.com/es/). I also have particular expertise on the [Discord API](https://discord.com/developers/docs/reference) and the [SpigotMC](https://www.spigotmc.org/) and [PaperMC](https://papermc.io/) plugin ecosystem/APIs.
 
 ## 💻 Languages and tools:
 
