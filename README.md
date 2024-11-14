@@ -86,6 +86,37 @@ A Discord bot for publishing service request and offers in a guild.
 - [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) - Linting and formatting.
 - [GitHub Actions](https://github.com/features/actions) - CI/CD.
 
+---
+
+### [🔍 javadocs-scraper](https://github.com/Amgelo563/javadocs-scraper)
+A TypeScript library to scrape Java objects information from a Javadocs website.
+
+#### Features
+Scrapes:
+- [Packages](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/package/PackageData.ts)
+- [Classes](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/class/ClassData.ts)
+- [Interfaces](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/interface/InterfaceData.ts)
+- [Object Type Parameters (Object Generics)](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/object/ObjectTypeParameterData.ts), on classes and interfaces
+- [Enums](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/enum/EnumData.ts)
+    - [Enum Constants](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/enum/constant/EnumConstantData.ts)
+- [Annotations](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/annotation/AnnotationData.ts)
+    - [Annotation Elements](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/annotation/element/AnnotationElementData.ts)
+- [Fields](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/field/FieldData.ts)
+- [Methods](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/method/MethodData.ts)
+    - [Return Type](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/method/return/MethodReturnData.ts)
+    - [Parameters](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/parameter/ParameterData.ts)
+    - [Type Parameters (Method Generics)](https://github.com/Amgelo563/javadocs-scraper/blob/main/src/entities/method/type/MethodTypeParameterData.ts)
+
+#### Tech Stack
+- [Cheerio](https://cheerio.js.org/) - Parsing and manipulating fetched HTML.
+- [TSUp](https://github.com/egoist/tsup) - Bundling with [esbuild](https://github.com/evanw/esbuild).
+- [PNPM](https://pnpm.io/) - Managing packages.
+- [semantic-release](https://github.com/semantic-release/semantic-release) - Versioning and releasing to NPM.
+- [Husky](https://typicode.github.io/husky/) - Running git tasks before committing.
+- [Typedoc](https://typedoc.org/) - Automatic type documentation at https://amgelo563.github.io/javadocs-scraper/.
+- [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) - Linting and formatting.
+- [GitHub Actions](https://github.com/features/actions) - CI/CD.
+
 ## ☎ Contact
 
 [![Mail](https://img.shields.io/badge/mail-email%40amgelo563.me-dd4336?style=for-the-badge&logo=gmail)](mailto:email@amgelo563.me)
