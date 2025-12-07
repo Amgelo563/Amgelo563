@@ -120,7 +120,7 @@ Powered by [Wakatime](https://wakatime.com/) and [anuraghazra/github-readme-stat
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@84d4f8dc-edb7-4aaf-a6d3-39a0bf3fed51&theme=algolia&layout=compact&custom_title=🌌%20Last%20365%20days"></td>
-    <td style="border: none;" valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Amgelo563&show_icons=true&theme=algolia&include_all_commits=true&custom_title=🌐%20Total%20stats&include_all_commits=true"></td>
+    <td style="border: none;"><img src="https://github-readme-stats-luis-projects-7741b968.vercel.app/api/wakatime?username=@84d4f8dc-edb7-4aaf-a6d3-39a0bf3fed51&theme=algolia&layout=compact&custom_title=🌌%20Last%20365%20days"></td>
+    <td style="border: none;" valign="top"><img src="https://github-readme-stats-luis-projects-7741b968.vercel.app/api?username=Amgelo563&show_icons=true&theme=algolia&include_all_commits=true&custom_title=🌐%20Total%20stats&include_all_commits=true"></td>
   </tr>
 </table>
